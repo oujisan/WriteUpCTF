@@ -4,7 +4,6 @@
 #PicoCTF2024 #Forensic #Easy 
 ___
 
-
 Setelah masuk di dalam instance yang telah disediakan, terdapat list directory content berikut
 ```
 ctf-player@pico-chall$ ls
