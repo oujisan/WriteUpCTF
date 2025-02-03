@@ -1,5 +1,7 @@
 # DarkComet 1
-For the rest of DarkComet series challenge, you can download from the following file: `https://binusianorg-my.sharepoint.com/personal/felix_alexander_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiA_PvWflgxHq8daNfsiT88B0Pdj28WlAEB-APgyIByK8Q&e=AHS1bJ`
+For the rest of DarkComet series challenge, you can download from the following file: 
+
+`https://binusianorg-my.sharepoint.com/personal/felix_alexander_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiA_PvWflgxHq8daNfsiT88B0Pdj28WlAEB-APgyIByK8Q&e=AHS1bJ`
 
 I think a DarkComet malware infects my device!
 
@@ -24,11 +26,14 @@ Cari terlebih dahulu informasi mengenai malware Dark Comet yang telah disebut da
 Biasanya malware Dark Comet menyalin dirinya ke dalam target sistem dalam bentuk `exe` atau executable program. 
 > [!NOTE]
 > `.dmp` atau *dump file* - menyimpan *snapshot* atau rekaman kondisi sistem atau aplikasi
+> 
 > `.pml` atau *Performance Monitor Log*  - menyimpan data kinerja sistem.
+> 
 > Kedua file diatas biasanya digunakan untuk menganalisis masalah dan memperbaikinya.
 
 >[!TIP]
 > Analisa `.dmp` dapat menggunakan software yang bernama `WinDbg` dari Microsoft[^2]
+> 
 > Analisa - `.pml` dapat menggunakan `ProcMon` dari Microsoft[^3]
 
 Lakukan analisa terhadap kedua file yang telah ada.
