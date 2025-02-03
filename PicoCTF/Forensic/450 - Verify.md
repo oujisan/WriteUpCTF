@@ -16,16 +16,22 @@ ctf-player@pico-chall$ cat checksum.txt
 b09c99c555e2b39a7e97849181e8996bc6a62501f0149c32447d8e65e205d6d2
 ```
 
+> [!TIP]
+> Cari tahu SHA-256 Hash dan Checksum.
+
 Dalam directory `files`, terdapat 301 file dengan nilai unik
 ```
 ctf-player@pico-chall$ cat files/0QFPjDGl
 NyZbmzOjRRVev7keI8ndR4qRriMAxFynXefeMikB7mKgv3xBIhzbLOwo65uL8GC
 ```
 
-Karena checksum sudah diketahui, cari file dalam directory `files` yang memiliki nilai hash sama dengan file `checksum.txt` menggunakan `sha256sum`.
+Karena checksum sudah diketahui, cari file dalam directory `files` yang memiliki nilai hash sama dengan file `checksum.txt` menggunakan `sha256sum`[^1].
 ```
 sha256sum files/* | grep -f checksum.txt
 ```
+
+> [!NOTE]
+> Checksum adalah nilai unik hasil SHA-256 Hash dari suatu file.
 
 ```
 ctf-player@pico-chall$ sha256sum files/* | grep -f checksum.txt
@@ -38,4 +44,4 @@ ctf-player@pico-chall$ ./decrypt.sh files/451fd69b
 picoCTF{trust_but_verify_451fd69b}
 ```
 
-> **FLAG:** `picoCTF{trust_but_verify_451fd69b}`
+[^1]: [sha256sum](https://sha256sum.com/).
