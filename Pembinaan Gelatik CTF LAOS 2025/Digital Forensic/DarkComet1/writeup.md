@@ -33,7 +33,7 @@ Biasanya malware Dark Comet menyalin dirinya ke dalam target sistem dalam bentuk
 
 Analisa file`.pml` menggunakan `ProcMon` dari Microsoft[^3]. Karena process yang ada hanya `msdcsc.exe` saja pada `C:\Users\dwarapala\Documents\MSDCSC\msdcsc.exe`, sekarang tinggal cari sub folder yang dibuat oleh tampilkan hanya "Show File System Activity" untuk mempermudah pencarian.
 
-![Pasted image 20250203130030.png]
+![procmon](/img/procmon.png)
 
 Hingga didapat sub-folder dengan nama `XahBjj6qy2PQ`.
 `C:\Users\dwarapala\Documents\MSDCSC\XahBjj6qy2PQ\msdcsc.exe`
