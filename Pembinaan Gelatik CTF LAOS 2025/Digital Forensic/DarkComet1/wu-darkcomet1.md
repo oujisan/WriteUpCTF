@@ -10,7 +10,7 @@ This malware is pretty sus since it uses a legit services and spawns a malicious
 Flag format: LAOS{nameoffolder}
 Example: LAOS{DeeskTop}
 
-#DigitalForensic #pml #dark-comet #malware #procmon
+#DigitalForensic #pml #dark-comet #malware #procmon #wu
 ___
 Terdapat 2 file dengan ekstensi `.dmp` dan `.pml` pada file `Zeno.zip` yang diberikan
 ```
@@ -31,9 +31,11 @@ Biasanya malware Dark Comet menyalin dirinya ke dalam target sistem dalam bentuk
 > 
 > Kedua file diatas biasanya digunakan untuk menganalisis masalah dan memperbaikinya.
 
-Analisa file`.pml` menggunakan `ProcMon` dari Microsoft[^3]. Karena process yang ada hanya `msdcsc.exe` saja pada `C:\Users\dwarapala\Documents\MSDCSC\msdcsc.exe`, sekarang tinggal cari sub folder yang dibuat oleh tampilkan hanya "Show File System Activity" untuk mempermudah pencarian.
+Analisa file`.pml` menggunakan `ProcMon` dari Microsoft[^3]. Karena process yang ada hanya `msdcsc.exe` saja pada `C:\Users\dwarapala\Documents\MSDCSC\msdcsc.exe`, sekarang tinggal cari sub folder yang dibuat oleh tampilkan hanya "Show File System Activity" saja.
 
-![procmon](./img/procmon.png)
+Gunakan filter dengan `path` , `contains`, `C:\Users\dwarapala\Documents\MSDCSC`, `include` untuk memudahkan pencarian.
+
+![procmon](procmon-filtered.jpg)
 
 Hingga didapat sub-folder dengan nama `XahBjj6qy2PQ`.
 `C:\Users\dwarapala\Documents\MSDCSC\XahBjj6qy2PQ\msdcsc.exe`

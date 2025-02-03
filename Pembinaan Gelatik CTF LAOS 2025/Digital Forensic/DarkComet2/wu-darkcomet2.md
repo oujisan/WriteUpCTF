@@ -13,7 +13,7 @@ Flag format: LAOS{nameofmutex}
 
 Example: LAOS{RANG_TUv_-x828781}
 
-#DigitalForensic #dark-comet #mutex #malware
+#DigitalForensic #dark-comet #mutex #malware #wu
 ___
 Terdapat 2 file dengan ekstensi `.dmp` dan `.pml` pada file `Zeno.zip` yang diberikan
 ```
