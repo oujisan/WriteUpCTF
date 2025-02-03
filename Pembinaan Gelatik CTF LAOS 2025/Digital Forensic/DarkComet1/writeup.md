@@ -19,11 +19,11 @@ Terdapat 2 file dengan ekstensi `.dmp` dan `.pml` pada file `Zeno.zip` yang dibe
 sample.dmp  sample.PML
 ```
 
-Cari terlebih dahulu informasi mengenai malware Dark Comet yang telah disebut dalam deskripsi soal dan memahami bagaimana cara kerjanya.
+Dalam deskripsi sudah tertera jika perangkat terserang oleh malware dark comet.
 >[!NOTE]
 >Dark Comet adalah Aplikasi *Remote Access Trojan (RAT)* yang memungkinkan berjalan di latar belakang dan secara diam-diam mengambil informasi tentang sistem, informasi kredensial user, dan aktivitas network[^1].
 
-Biasanya malware Dark Comet menyalin dirinya ke dalam target sistem dalam bentuk `exe` atau executable program. 
+Biasanya malware Dark Comet menyalin dirinya ke dalam target sistem dalam bentuk `exe` atau executable program. Tujuan soal adalah mencari nama folder yang dihasilkan child proses dari si malware.
 > [!NOTE]
 > `.dmp` atau *dump file* - menyimpan *snapshot* atau rekaman kondisi sistem atau aplikasi
 > 
@@ -31,13 +31,16 @@ Biasanya malware Dark Comet menyalin dirinya ke dalam target sistem dalam bentuk
 > 
 > Kedua file diatas biasanya digunakan untuk menganalisis masalah dan memperbaikinya.
 
->[!TIP]
-> Analisa `.dmp` dapat menggunakan software yang bernama `WinDbg` dari Microsoft[^2]
-> 
-> Analisa - `.pml` dapat menggunakan `ProcMon` dari Microsoft[^3]
+Analisa file`.pml` menggunakan `ProcMon` dari Microsoft[^3]. Karena process yang ada hanya `msdcsc.exe` saja pada `C:\Users\dwarapala\Documents\MSDCSC\msdcsc.exe`, sekarang tinggal cari sub folder yang dibuat oleh tampilkan hanya "Show File System Activity" untuk mempermudah pencarian.
 
-Lakukan analisa terhadap kedua file yang telah ada.
+![Pasted image 20250203130030.png]
+
+Hingga didapat sub-folder dengan nama `XahBjj6qy2PQ`.
+`C:\Users\dwarapala\Documents\MSDCSC\XahBjj6qy2PQ\msdcsc.exe`
+
+Dapat disimpulkan bahwa folder diatas merupakan sub-folder yang dibuat oleh child-process malware.
+
+> **LAOS{XahBjj6qy2PQ}**
 
 [^1]: https://www.malwarebytes.com/blog/detections/backdoor-darkcomet
-[^2]: https://www.xda-developers.com/how-to-open-dmp-files/
 [^3]: https://filext.com/file-extension/PML
