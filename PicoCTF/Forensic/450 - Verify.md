@@ -1,6 +1,9 @@
-#PicoCTF2024 #Forensic #Easy
-___
+# Verify
 [Link Challenge](https://play.picoctf.org/practice/challenge/450?)
+
+#PicoCTF2024 #Forensic #Easy 
+___
+
 
 Setelah masuk di dalam instance yang telah disediakan, terdapat list directory content berikut
 ```
