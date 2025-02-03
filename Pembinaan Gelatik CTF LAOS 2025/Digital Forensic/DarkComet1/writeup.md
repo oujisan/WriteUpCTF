@@ -1,7 +1,7 @@
 # DarkComet 1
-For the rest of DarkComet series challenge, you can download from the following file: 
+For the rest of DarkComet series challenge, you can download from the following file:
 
-`https://binusianorg-my.sharepoint.com/personal/felix_alexander_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiA_PvWflgxHq8daNfsiT88B0Pdj28WlAEB-APgyIByK8Q&e=AHS1bJ`
+[Link Challenge](https://binusianorg-my.sharepoint.com/personal/felix_alexander_binus_ac_id/_layouts/15/guestaccess.aspx?share=EiA_PvWflgxHq8daNfsiT88B0Pdj28WlAEB-APgyIByK8Q&e=AHS1bJ)
 
 I think a DarkComet malware infects my device!
 
@@ -10,7 +10,7 @@ This malware is pretty sus since it uses a legit services and spawns a malicious
 Flag format: LAOS{nameoffolder}
 Example: LAOS{DeeskTop}
 
-#DigitalForensic #pml #dmp
+#DigitalForensic #pml #dark-comet #malware #procmon
 ___
 Terdapat 2 file dengan ekstensi `.dmp` dan `.pml` pada file `Zeno.zip` yang diberikan
 ```
