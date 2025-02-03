@@ -27,7 +27,7 @@ Biasanya malware Dark Comet menyalin dirinya ke dalam target sistem dalam bentuk
 > `.pml` atau *Performance Monitor Log*  - menyimpan data kinerja sistem.
 > Kedua file diatas biasanya digunakan untuk menganalisis masalah dan memperbaikinya.
 
->[!TIPS]
+>[!TIP]
 > Analisa `.dmp` dapat menggunakan software yang bernama `WinDbg` dari Microsoft[^2]
 > Analisa - `.pml` dapat menggunakan `ProcMon` dari Microsoft[^3]
 
