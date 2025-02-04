@@ -20,6 +20,7 @@ evidence.pcap  evidence.PML
 Tujuan kali ini adalah untuk mencari PID dari child process ketika user mengeksekusi setup executable. Gunakan `Procmon` untuk melakukan analisa terhadap `evidence.PML`
 
 Buka Process Tree untuk melihat process dan sub-process. Karena pada deskripsi soal dikatakan setup executable, jadi coba untuk cari `setup.exe`.
+
 ![process-tree](./img/process-tree.png)
 
 Disini terlihat jika `Setup.exe` memiliki sub-process yang bernama `InstallUtil.exe` dengan PID `7700`
