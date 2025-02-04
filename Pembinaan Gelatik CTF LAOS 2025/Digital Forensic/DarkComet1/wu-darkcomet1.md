@@ -35,7 +35,7 @@ Analisa file`.pml` menggunakan `ProcMon` dari Microsoft[^3]. Karena process yang
 
 Gunakan filter dengan `path` , `contains`, `C:\Users\dwarapala\Documents\MSDCSC`, `include` untuk memudahkan pencarian.
 
-![procmon](procmon-filtered.jpg)
+![procmon](./img/procmon-filtered.jpg)
 
 Hingga didapat sub-folder dengan nama `XahBjj6qy2PQ`.
 `C:\Users\dwarapala\Documents\MSDCSC\XahBjj6qy2PQ\msdcsc.exe`
