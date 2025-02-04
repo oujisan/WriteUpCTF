@@ -19,7 +19,8 @@ corrupted.dd
 ```
 
 Untuk mendapatkan format tabel partisi yang digunakan, pakai `Exterro FTK Imager` untuk analisa lebih lanjut.
-![gpt](Pembinaan%20Gelatik%20CTF%20LAOS%202025/Digital%20Forensic/Corrupted%20Minds%201/img/gpt.png)
+![gpt](./img/gpt.png)
+
 Seperti yang dapat terlihat jika format tabel partisi dari image tersebut adalah `GPT`
 
 > **LAOS{GPT}**
