@@ -20,10 +20,12 @@ corrupted.dd
 
 Untuk mendapatkan format tabel partisi yang digunakan, pakai `Exterro FTK Imager` untuk analisa lebih lanjut.
 ![gpt](./img/gpt.png)
+
 Pada gambar, terlihat jelas bahwa jumlah partisi yang ada di dalam image adalah 2. 
 
 Untuk melihat GUID Partisi dapat dilakukan dengan melihat Properties pada `Unpartitioned Space [GPT]`. Pada GUID Partition Table Information terdapat Disk ID yang merupakan GUID disk image.
 ![guid](./img/guid.png)
+
 `{AB30F8B8-E6E6-4DEF-B016-6247B1AE698A}`
 
 > **LAOS{2_AB30F8B8-E6E6-4DEF-B016-6247B1AE698A}**
