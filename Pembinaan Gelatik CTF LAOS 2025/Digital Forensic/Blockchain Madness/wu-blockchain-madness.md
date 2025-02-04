@@ -178,7 +178,7 @@ Buka `Screenshot 2024-05-16 141457.png` untuk mendapatkan flag.
 Ternyata tulisan flag masih tertutup warna hitam `-_-`
 ![flag-suck](./img/flag-suck.png)
 
-Atur contrast menggunakan `imagick` atau tools lain untuk dapat melihat flag.
+Atur brightness dan contrast menggunakan `imagick` atau tools lain untuk dapat melihat flag.
 ```
 ┌──(kali㉿oujisan)-[~/chall/ZipWithoutPasswd]
 └─$ convert Screenshot\ 2024-05-16\ 141457.png -brightness-contrast 50x100 flag.png
