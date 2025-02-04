@@ -34,6 +34,7 @@ Gunakan filter lanjutan `path`, `contains` `Software\Microsoft\Windows\CurrentVe
 ![windbg](./img/msuupdate.png)
 
 Didapat pada bagian highlight `HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\MSUpdate`
+
 `MSUpdate` merupakan kunci yang dicari atau nama subkey registry
 
 > **LAOS{MSUpdate}**
