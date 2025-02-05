@@ -34,7 +34,7 @@ convert-im6.q16: profile 'icc': 'RGB ': RGB color space not permitted on graysca
 atau bisa menggunakan `binwalk` untuk ekstrak seluruh isi dalam file tersebut
 ```
 ┌──(kali㉿oujisan)-[/mnt/c/Users/Ouji/Downloads]
-└─$ binwalk -e --dd=".*" flag2of2-final.pdf
+└─$ binwalk --dd=".*" flag2of2-final.pdf
 
 DECIMAL       HEXADECIMAL     DESCRIPTION
 --------------------------------------------------------------------------------
