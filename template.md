@@ -6,5 +6,3 @@
 ___
 
 [CONTENT]
-
-[^1]: References

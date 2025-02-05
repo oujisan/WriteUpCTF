@@ -1,1 +1,3 @@
-picoCTF{trust_but_verify_451fd69b}
+```
+`picoCTF{trust_but_verify_451fd69b}
+````
