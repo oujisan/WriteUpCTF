@@ -9,7 +9,7 @@ Flag format: LAOS{totalpartition_GUID}
 
 Example: LAOS{5_7ABD-89398-HJDJKJ-SJSK}
 
-#DigitalForensic #imageForensic #ftk-imager #dd #wu
+#DigitalForensic #imageForensic #ftk-imager #dd #wu #pembinaan-gelatik-laos-25
 ___
 Dalam zip terdapat file dengan format `.dd`
 ```

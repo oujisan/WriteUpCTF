@@ -9,7 +9,7 @@ Flag is in the screenshot picture of the compressed archive.
 
 Notes: You cannot brute force this file since the password is **very long**
 
-#DigitalForensic #Osint #Misc #zip
+#DigitalForensic #Osint #Misc #zip #pembinaan-gelatik-laos-25
 ___
 Diberi file `.zip` dalam keadaan terkunci. Tujuan kita adalah membuka zip dan mendapatkan flag yang terdapat pada file png.
 ```

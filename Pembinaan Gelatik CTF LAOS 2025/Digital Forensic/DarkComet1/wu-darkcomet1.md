@@ -10,7 +10,7 @@ This malware is pretty sus since it uses a legit services and spawns a malicious
 Flag format: LAOS{nameoffolder}
 Example: LAOS{DeeskTop}
 
-#DigitalForensic #pml #dark-comet #malware #procmon #wu
+#DigitalForensic #pml #dark-comet #malware #procmon #wu #pembinaan-gelatik-laos-25
 ___
 Terdapat 2 file dengan ekstensi `.dmp` dan `.pml` pada file `Zeno.zip` yang diberikan
 ```

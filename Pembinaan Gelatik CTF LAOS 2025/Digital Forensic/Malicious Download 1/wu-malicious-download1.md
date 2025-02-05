@@ -11,7 +11,7 @@ Flag format: LAOS{domain.tld_domain.tld}
 
 Example: LAOS{jaja.com_hello.id}
 
-#DigitalForensic #wu #pcap 
+#DigitalForensic #wu #pcap #pembinaan-gelatik-laos-25
 ___
 Dalam file zip terdapat 2 file sebagai berikut:
 ```

@@ -9,7 +9,7 @@ Flag format: LAOS{nameofsubkeyregistry}
 
 Example: LAOS{Jajang}
 
-#DigitalForensic #malware #dark-comet #registry #pml #wu
+#DigitalForensic #malware #dark-comet #registry #pml #wu #pembinaan-gelatik-laos-25
 ___
 Terdapat 2 file dengan ekstensi `.dmp` dan `.pml` pada file `Zeno.zip` yang diberikan
 ```
