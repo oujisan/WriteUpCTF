@@ -185,4 +185,6 @@ Atur brightness dan contrast menggunakan `imagick` atau tools lain untuk dapat m
 ```
 ![flag](./img/edited-flag.png)
 
-> **`LAOS{!_kn0w_y0u_c4n_r3ad_this_lol}`**
+```
+LAOS{!_kn0w_y0u_c4n_r3ad_this_lol}
+```

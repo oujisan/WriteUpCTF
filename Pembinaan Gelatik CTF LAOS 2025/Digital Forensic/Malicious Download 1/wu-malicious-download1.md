@@ -136,4 +136,6 @@ settings-win.data.microsoft.com
 settings-win.data.microsoft.com
 ```
 
-> **LAOS{freecrackdownload.com_mediafire.com}**
+```
+LAOS{freecrackdownload.com_mediafire.com}
+```

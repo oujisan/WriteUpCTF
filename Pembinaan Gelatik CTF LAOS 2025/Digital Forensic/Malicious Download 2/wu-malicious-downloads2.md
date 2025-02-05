@@ -25,4 +25,6 @@ Buka Process Tree untuk melihat process dan sub-process. Karena pada deskripsi s
 
 Disini terlihat jika `Setup.exe` memiliki sub-process yang bernama `InstallUtil.exe` dengan PID `7700`
 
-> **LAOS{7700}**
+```
+LAOS{7700}
+```

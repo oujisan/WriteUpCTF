@@ -37,6 +37,8 @@ Didapat pada bagian highlight `HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Ru
 
 `MSUpdate` merupakan kunci yang dicari atau nama subkey registry
 
-> **LAOS{MSUpdate}**
+```
+LAOS{MSUpdate}
+```
 
 [^1]: https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys

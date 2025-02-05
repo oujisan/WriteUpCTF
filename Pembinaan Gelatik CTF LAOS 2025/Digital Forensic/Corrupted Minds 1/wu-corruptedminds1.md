@@ -23,4 +23,6 @@ Untuk mendapatkan format tabel partisi yang digunakan, pakai `Exterro FTK Imager
 
 Seperti yang dapat terlihat jika format tabel partisi dari image tersebut adalah `GPT`
 
-> **LAOS{GPT}**
+```
+LAOS{GPT}
+```

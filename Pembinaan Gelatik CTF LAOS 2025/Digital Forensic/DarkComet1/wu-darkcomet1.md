@@ -42,7 +42,9 @@ Hingga didapat sub-folder dengan nama `XahBjj6qy2PQ`.
 
 Dapat disimpulkan bahwa folder diatas merupakan sub-folder yang dibuat oleh child-process malware.
 
-> **LAOS{XahBjj6qy2PQ}**
+```
+LAOS{XahBjj6qy2PQ}
+```
 
 [^1]: https://www.malwarebytes.com/blog/detections/backdoor-darkcomet
 [^3]: https://filext.com/file-extension/PML

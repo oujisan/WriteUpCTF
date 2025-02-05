@@ -28,4 +28,6 @@ Untuk melihat GUID Partisi dapat dilakukan dengan melihat Properties pada `Unpar
 
 `{AB30F8B8-E6E6-4DEF-B016-6247B1AE698A}`
 
-> **LAOS{2_AB30F8B8-E6E6-4DEF-B016-6247B1AE698A}**
+```
+LAOS{2_AB30F8B8-E6E6-4DEF-B016-6247B1AE698A}
+```

@@ -2,7 +2,7 @@
 [Link Challenge](https://play.picoctf.org/practice/challenge/408)
 How about some hide and seek?
 
-#Forensic #wu #png #exiftool
+#Forensic #wu #png #exiftool #steganography 
 ___
 
 Unzip file yang telah didownload

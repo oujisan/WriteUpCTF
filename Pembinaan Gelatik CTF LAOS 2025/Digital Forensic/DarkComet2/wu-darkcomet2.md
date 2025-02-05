@@ -63,4 +63,6 @@ Terdapat 3 handle dengan tipe mutant, cek satu persatu untuk menemukan petunjuk 
 
 pada `Handle 00000388` nama mutex yaitu `DC_MUTEX-PG1794N`
 
-> **LAOS{DC_MUTEX-PG1794N}**
+```
+LAOS{DC_MUTEX-PG1794N}
+```

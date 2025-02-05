@@ -5,7 +5,7 @@ I've gotten bored of handing out flags as text. Wouldn't it be cool if they were
 - [challenge.zip](https://artifacts.picoctf.net/c_atlas/16/challenge.zip)
 Additional details will be available after launching your challenge instance.
 
-#PicoCTF2024 #Forensic #Easy #qr-code #wu
+#PicoCTF2024 #Forensic #Easy #qr-code #wu #steganography 
 ___
 Ekstrak file `challenge.zip` dan buka sampai menemukan file `flag.png`.
 Diberi gambar QR-Code dimana judul soal adalah "Scan" jadi kita coba untuk scan QR-Code tersebut menggunakan `zbarimg`[^1]
@@ -28,6 +28,10 @@ Connection Error (Failed to connect to socket /run/dbus/system_bus_socket: No su
 Connection Null
 QR-Code:picoCTF{p33k_@_b00_7843f77c}
 scanned 1 barcode symbols from 1 images in 0.01 seconds
+```
+
+```
+picoCTF{p33k_@_b00_7843f77c}
 ```
 
 [^1]: https://medium.com/@sumitdhattarwal4444/creating-and-reading-qr-code-in-linux-5cfeb2d65063

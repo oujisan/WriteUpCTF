@@ -44,4 +44,8 @@ ctf-player@pico-chall$ ./decrypt.sh files/451fd69b
 picoCTF{trust_but_verify_451fd69b}
 ```
 
+```
+picoCTF{trust_but_verify_451fd69b}
+```
+
 [^1]: [sha256sum](https://sha256sum.com/).
