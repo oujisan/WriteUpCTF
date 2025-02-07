@@ -63,7 +63,7 @@ Image_UTC_Data000000000001
 ```
 
 > [!WARNING]
-> Hati-hati untuk tidak mengubah atau menghapus byte secara tidak sengaja, jikalau merasa telah menghapus byte lakukan `ctrl + z`. Jika nanti hasilnya pada pengecekan ke-7 menunjukkan bukan format timedate samsung, gunakan file original backup yang otomatis disediakan ecxiftool selama tidak menggunakan argumen `-overwrite_original`
+> Hati-hati untuk tidak mengubah atau menghapus byte secara tidak sengaja, jikalau merasa telah menghapus byte lakukan `ctrl + z`. Jika nanti hasilnya pada pengecekan ke-7 menunjukkan bukan format timestamp samsung atau tidak ada timestamp tag, gunakan file original backup yang otomatis disediakan exiftool selama tidak menggunakan argumen `-overwrite_original`
 
 dan jalankan instance yang telah disediakan dengan upload foto hasil perubahan kita
 ```
