@@ -28,7 +28,7 @@ exiftool -AllDates="1970:01:01 00:00:00.001+00:00" original.jpg
 "-CreateDate=1970:01:01 00:00:00" \
 "- SubSecCreateDate=1970:01:01 00:00:00.001" \
 "-SubSecDateTimeOriginal=1970:01:01 00:00:00.001" \
-"-SubSecModifyDate1970:01:01 00:00:00.001" \
+"-SubSecModifyDate=1970:01:01 00:00:00.001" \
 original.jpg
 ```
 
