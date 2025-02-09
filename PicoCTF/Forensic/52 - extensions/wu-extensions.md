@@ -25,7 +25,7 @@ rename ekstensi menjadi png
 ```
 
 lalu buka gambarnya
-![PicoCTF/Forensic/52 - extensions/img/flag.png](PicoCTF/Forensic/52%20-%20extensions/img/flag.png)
+![PicoCTF/Forensic/52 - extensions/img/flag.png](.img/flag.png)
 
 Karen aku mala menulis, pakai `tesseract` untuk mendapatkan tulisan secara langsung
 ```
