@@ -79,3 +79,7 @@ Ok, kita ubah CRC pada chunk IHDR dari `A5 AE 0F 88` menjadi `27 40 7A 8B`
 Tampilkan lagi gambar
 
 ![zhezhi.png](./img/zhezhi.png)
+
+```
+gemastik{g0t_cr0pped_by_structur3}
+```
