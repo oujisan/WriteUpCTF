@@ -1,4 +1,4 @@
-# TITLE
+# Pcap Poisoning
 [Link Challenge](https://play.picoctf.org/practice/challenge/362)
 
 How about some hide and seek heh?Download this [file](https://artifacts.picoctf.net/c/371/trace.pcap) and find the flag.
