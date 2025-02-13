@@ -60,7 +60,7 @@ yang membuat aneh adalah `fQ==` yang biasanya merupakan akhiran dari base64 dan 
 (ip.dst == 18.217.1.57) && (_ws.col.protocol == "DNS")
 ```
 
-![./img/flag.png](./img/flag.png)
+![PicoCTF 2024 Below/Forensic/110 - Wireshark twoo twooo two twoo/img/flag.png](./img/flag.png)
 Pada setiap awal domain terlihat pola yang sama. Coba susun dan decode menggunakan base64
 
 ```

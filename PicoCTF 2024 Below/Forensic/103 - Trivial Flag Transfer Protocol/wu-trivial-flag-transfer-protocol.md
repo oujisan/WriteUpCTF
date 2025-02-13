@@ -38,7 +38,7 @@ Ternyata selain ketiga file diatas terdapat 3 file `bmp` atau simpelnya gambar. 
 Untuk mendapatkan semua file diatas dalam wireshark kita diberi kemudahan dengan klik
 `File -> Export Objects -> tftp`. Nanti akan muncul window list.
 
-![[export.png]]
+![export.png](./img/export.png)
 
 Tekan `Save All` untuk menyimpan seluruh packet yang ada.
 

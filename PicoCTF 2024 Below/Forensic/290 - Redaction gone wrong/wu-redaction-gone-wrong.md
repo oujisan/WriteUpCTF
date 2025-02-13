@@ -19,7 +19,7 @@ Financial_Report_for_ABC_Labs.pdf: PDF document, version 1.7, 1 page(s)
 ```
 
 Buka pdf untuk mengecek isi file
-![pdf](redacted.png)
+![pdf](./img/redacted.png)
 
 Kotak hitam dalam pdf ini dinamakan redacted. Setelah cara melihat atau membaca teks yang tertutupi kotak hitam bisa menggunakan tools GUI dan CLI. Coba pakai cli dulu.
 ```
