@@ -98,7 +98,7 @@ Disini kita bisa membuat file `js` dengan syntax
 ```
 console.log(eval(isi dari JSFuck))
 ```
-atau menggunakan web untuk decode.
+atau menggunakan web untuk decode. https://enkhee-osiris.github.io/Decoder-JSFuck/
 
 ![Pasted image 20250214085750.png](./img/decode.png)
 
