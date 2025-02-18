@@ -54,7 +54,7 @@ Ternyata di dalamnya terdapat script JS yang merupakan flag checker. Sementara k
 ![js-checker.png](./img/js-checker.png)
 
 Isi dari PDF nya sebagai berikut:
-![TCP1P Playground 365 2024/Forensic/pemanasan/img/text.png](js.png)
+![TCP1P Playground 365 2024/Forensic/pemanasan/img/text.png](./img/js.png)
 
 Sempat sebelumnya di mention dugaan adanya script javascript dalam file. Ketika di check ternyata benar.
 ```
