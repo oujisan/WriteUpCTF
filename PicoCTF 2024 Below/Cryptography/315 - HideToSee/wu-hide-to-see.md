@@ -3,7 +3,7 @@
 
 How about some hide and seek heh?Look at this image [here](https://artifacts.picoctf.net/c/240/atbash.jpg).
 
-#cryptography #wu
+#cryptography #wu #forensic
 ___
 Soal kriptografi diberi gambar? baik, setelah dicek pada binwalk tidak ada apa-apa. Tapi...
 Setelah dianalisa pada steghide, terdapat file bernama `encrypted.txt`
